@@ -1,0 +1,3 @@
+[submodule "website/themes/threat-model-cookbook-theme"]
+	path = website/themes/threat-model-cookbook-theme
+	url = git@github.com:DavidCervigni/threat-model-cookbook-theme.git
